@@ -1,0 +1,62 @@
+1. Objetivo do Trabalho
+O objetivo deste trabalho prático é proporcionar aos alunos a oportunidade de aplicar os
+conceitos aprendidos em programação para web, criando um website pessoal responsivo com
+uma estrutura de currículo. Este projeto permitirá aos alunos demonstrar suas habilidades na
+construção de websites modernos, garantindo a adaptabilidade às diferentes telas e
+dispositivos.
+2. Descrição do Projeto
+Você deve desenvolver um website pessoal que sirva como uma vitrine das suas habilidades,
+experiências e projetos. O website deve ser responsivo, o que significa que deve se adaptar de
+forma adequada a diferentes dispositivos, como desktops, tablets e smartphones.
+Requisitos Técnicos:
+1. HTML5: Utilize HTML5 para estruturar o conteúdo do seu website de forma
+semântica.
+2. CSS3: Faça uso de CSS3 para estilizar o layout do website e torná-lo atraente
+visualmente.
+3. Responsive Design: O website deve ser desenvolvido com um design responsivo,
+garantindo uma experiência de usuário consistente em diferentes dispositivos.
+4. Curriculum Structure: Inclua uma seção de currículo que apresente suas informações
+pessoais, experiências educacionais, experiências profissionais, habilidades técnicas,
+projetos relevantes, entre outros.
+5. GitHub Pages: Publique o seu website utilizando o GitHub Pages, que permite
+hospedar websites diretamente do seu repositório GitHub.
+Estrutura do Website:
+O website deve conter as seguintes seções:
+1. Página Inicial (Home): Uma breve introdução sobre você, destacando suas principais
+habilidades e interesses.
+2. Currículo (Resume): Uma seção detalhada que apresente as seguintes informações:
+- Informações pessoais (nome, contato, etc.);
+- Educação (histórico de escolaridade);
+- Experiência profissional (estágios, trabalhos anteriores, etc.);
+- Habilidades técnicas (linguagens de programação, frameworks, etc.);
+- Projetos relevantes (breve descrição de projetos pessoais ou profissionais).
+3. Portfólio (Portfolio): Uma galeria de projetos ou trabalhos que você tenha realizado,
+com breves descrições e links para mais detalhes, se aplicável.
+4. Contato (Contact): Informações de contato, como endereço de e-mail, links para
+redes sociais, etc.
+GitHub Pages
+Após concluir o desenvolvimento do seu website, publique-o utilizando o GitHub Pages. Siga as
+instruções fornecidas pelo GitHub para configurar o GitHub Pages para o seu repositório.
+3. Entrega do Trabalho
+Após concluir o desenvolvimento do seu website pessoal, siga os seguintes passos para
+entrega do trabalho:
+1. Publicação no GitHub Pages: Publique o seu website no GitHub Pages.
+2. Envio do Link: Envie o link do seu website pessoal ao professor pelo SIGAA em um
+arquivo txt.
+4. Avaliação do Trabalho
+O trabalho será avaliado com base nos seguintes critérios:
+1. Qualidade do Design: O layout e o design do website devem ser atraentes e
+esteticamente agradáveis.
+2. Responsividade: O website deve se adaptar de forma adequada a diferentes
+dispositivos e tamanhos de tela.
+3. Estrutura de Currículo: A seção de currículo deve ser bem estruturada e conter
+informações relevantes sobre o aluno.
+4. Funcionalidades Extras: Quaisquer funcionalidades adicionais implementadas além
+dos requisitos básicos serão consideradas positivamente.
+5. GitHub Pages: O website deve ser hospedado utilizando o GitHub Pages e o link
+deve estar acessível e funcional.
+5. Conclusão
+Este trabalho prático oferece uma oportunidade valiosa para os alunos aplicarem seus
+conhecimentos em programação para web na prática, desenvolvendo um website pessoal
+responsivo com uma estrutura de currículo. Através deste projeto, os alunos terão a chance de
+demonstrar suas habilidades de desenvolvimento web e criar uma presença online profissional.
